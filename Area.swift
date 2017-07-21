@@ -14,7 +14,7 @@ struct Area {
     var part : String
     var image : String
     var isVisited : Bool
-    var rating = ""
+    //此处删除
     
     init(name: String, provicve: String, part: String, image: String, isVisited: Bool) {
         self.name = name
@@ -23,6 +23,7 @@ struct Area {
         self.image = image
         self.isVisited = isVisited
     }
+    var httest : String //此处增加
 }
 /*fsdgffdgfdsgsfdgfdgsdfgfdsgfds
  fdfsdfdgfdsgfdgfdgdfsgdfgdf
