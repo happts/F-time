@@ -24,3 +24,6 @@ struct Area {
         self.isVisited = isVisited
     }
 }
+/*fsdgffdgfdsgsfdgfdgsdfgfdsgfds
+ fdfsdfdgfdsgfdgfdgdfsgdfgdf
+*/
